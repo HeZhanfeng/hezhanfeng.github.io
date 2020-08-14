@@ -56,7 +56,7 @@
 
 * 项目架构：Spring Boot、 Spring Cloud Gateway 、Spring Security Oauth2、Vue、G6 、K8S、Redis等
 * 主要职责：
-  * 负责数据实验室的基础架构设计【主要工具亿图图示】、技术选项及流程梳理【主要工具MindMaster】
+  * 负责数据实验室的基础架构设计【主要工具亿图图示】、技术选型及流程梳理【主要工具MindMaster】
   * 负责数据实验室数据表结构设计【主要工具PDMan】
   * 负责数据实验室基础框架搭建，项目、实验、模型、组件配置等API接口开发【IDEA、Navicat等 】
   * 协调项目组前端、后端协同开发【Swagger】
